@@ -1,4 +1,4 @@
-package com.example.fujitsutrialtask;
+package dev.alpari.fujitsutrialtask;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
